@@ -1,0 +1,12 @@
+{
+  "name": "react-midudev",
+  "version": "1.0.0",
+  "description": "Fecha de inicio: 23-07-2024 12:37 AM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
